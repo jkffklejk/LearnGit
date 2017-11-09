@@ -7,3 +7,5 @@ git is a mutable index called staged.
 git track changes
 
 this is a new update for git.
+
+git push with short command.
