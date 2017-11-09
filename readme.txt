@@ -9,3 +9,5 @@ git track changes
 this is a new update for git.
 
 git push with short command.
+
+creating a new branch is quick.
